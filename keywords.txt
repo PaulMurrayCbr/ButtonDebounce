@@ -1,2 +1,23 @@
-DebounceFilter
-DebouncedInput
+DebounceFilter	KEYWORD1
+DebounceFilter4ms	KEYWORD1
+AbstractDebouncedInput	KEYWORD1
+DebouncedInput	KEYWORD1
+DebouncedAnalogInput	KEYWORD1
+
+addSample	KEYWORD2
+state	KEYWORD2
+stateChanged	KEYWORD2
+reset	KEYWORD2
+addSampleRateLimited	KEYWORD2
+high	KEYWORD2
+low	KEYWORD2
+changing	KEYWORD2
+falling	KEYWORD2
+rising	KEYWORD2
+readChanging	KEYWORD2
+readFalling	KEYWORD2
+readRising	KEYWORD2
+attach	KEYWORD2
+detach	KEYWORD2
+attached	KEYWORD2
+read	KEYWORD2
